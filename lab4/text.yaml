@@ -1,0 +1,46 @@
+---
+group_name: P3110
+day: Monday
+lesson1: 
+ title: Матан
+ class_format: Очно-дистанционный
+ type: Лекция
+ campus: Кронва
+ from_time: 08:20
+ to_time: 09:50
+ auditory: 1404
+ teacher: Рванова Алла
+ 
+lesson2:
+ title: Матан
+ class_format: Очно-дистанционный
+ type: Практика
+ campus: Кронва
+ from_time: 10:00
+ to_time: 11:30
+ auditory: 2412
+ teacher: Исаева Татьяна Тимофеевна
+ 
+lesson3:
+ title: Иностранный язык
+ 
+ class_format: Очно
+ type: Практика
+ campus: Лома
+ from_time: 15:20
+ to_time: 16:50
+ auditory: 3210
+ teacher: Левшинова Екатерина Андреевна
+ 
+lesson4:
+ title: Иностранный язык
+ 
+ class_format: Очно
+ type: Практика
+ campus: Лома
+ from_time: 17:00
+ to_time: 18:30
+ auditory: 3210
+ teacher: Левшинова Екатерина Андреевна
+ 
+

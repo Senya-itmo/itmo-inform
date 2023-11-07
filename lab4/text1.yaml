@@ -1,0 +1,24 @@
+---
+group_name: P3110
+day: Thuesday
+lesson1: 
+ title: Дискретка
+ class_format: Очно
+ type: Лекция
+ campus: Кронва
+ from_time: 11:40
+ to_time: 13:10
+ auditory: 2337
+ teacher: Поляков Владимир Иванович
+ 
+lesson2:
+ title: Дискретка
+ class_format: Очно
+ type: Практика
+ campus: Кронва
+ from_time: 13:30
+ to_time: 15:00
+ auditory: 2337
+ teacher: Поляков Владимир Иванович
+ 
+
